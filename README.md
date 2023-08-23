@@ -28,5 +28,5 @@ Access my linkedin <br><br>
 </div>
     
 <div align="center"><br>
-  <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="100">
+  <img src="https://cdn.buymeacoffee.com/buttons/default-red.png" alt="Buy Me A Coffee" height="40" width="150">
 </div>
