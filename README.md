@@ -17,7 +17,7 @@ Access my linkedin <br><br>
 
 <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,java&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,php&theme=dark)](https://skillicons.dev)
 
 <br><br>
 
